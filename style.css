@@ -1,0 +1,8 @@
+li a {
+    color: rgb(5, 75, 5);
+    font:25px "Verdana",san-serif;
+}
+
+body {
+    background: white url("images/background.png") no-repeat;
+}
